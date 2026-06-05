@@ -1,0 +1,6 @@
+{
+  "name": "Instagram Cafe Showcase",
+  "description": "An immersive interactive showcase of the world's most beautiful Instagram cafe, featuring ultra detailed luxury interiors, custom aesthetic coffee presentations, and artistic social media styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
